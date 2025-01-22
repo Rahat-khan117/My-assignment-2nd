@@ -115,5 +115,40 @@
     height: 2em;
     width: 9em;
   }
+
+  /* For footer */
+  .footer_box{
+    flex-direction: column;
+    position: relative;
+        top: -8em;
+        gap: 2em;
+  }
+  .footer{
+    position: relative;
+        height: 828px;
+        top: 37em;
+  }
+  .footer1 {
+    height: 100%;
+    width: 100%;
+}
+.footer1_box{
+    width: 50%
+}
+.footer2 {
+    height: 100%;
+    width: 100%;
+    align-items: start;
+    margin-top: 2em;
+}
+.footer3 {
+    height: 100%;
+    width: 100%;
+    align-items: start;
+    margin-top: 2em;
+}
+.head_box{
+    gap: 0.5em;
 }
 
+}
