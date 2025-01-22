@@ -62,4 +62,20 @@
       .enroll{
         margin-top: 2em;
       }
+
+      /* Curriculum part */
+      .btn_box{
+        display: none;
+      }
+      .culum_box1{
+        flex-direction: column;
+        height: 1000px;
+      }
+      .culum_box2{
+        width: 100%;
+        height: 400px;
+      }
+      .culum_title{
+        text-align: center;
+      }
 }

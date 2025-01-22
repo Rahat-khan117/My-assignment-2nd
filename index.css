@@ -97,3 +97,70 @@
   .box2-mobile{
     display: none;
   }
+  /* curriculum Part */
+  .main{
+    background-image: url(assets/bg.png);
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .culum_box{
+    height: 550px;
+    width: 77%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .culum_title{
+    margin: 1.5em 0em;
+    font-size: 2em;
+    font-weight: 700;
+  }
+  .culum_box1{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    gap: 4%;
+  }
+  .culum_box2{
+    height:300px ;
+    width: 31%;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+  .btn_box{
+    margin-top: 2.2em;
+  }
+  .btn_1{
+    background-color: orange;
+    border: 0;
+    font-size: 3em;
+    border-radius: 50%;
+    width: 1.1em;
+    color: white;
+  }
+  .cul_img_box{
+    height: 113px;
+    width: 49%;
+    margin-top: 23px;
+  }
+  .cul_img_box img {
+    height: 100%;
+    width: 100%;
+  }
+  .cul_heading{
+    font-size: 1.3em;
+    font-weight: 700;
+    margin-top: 0.5em;
+  }
+  .cul_dis{
+    text-align: center;
+    margin: 0.8em 1em 0.8em 1em;
+  }
+  .read_more{
+    text-decoration: none;
+  }
