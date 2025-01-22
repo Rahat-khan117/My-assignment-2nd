@@ -55,6 +55,45 @@
   .nav_name p{
     font-weight: 700;
   }
-  .menu {
+  .nav_bar i {
      display: none;
+  }
+  /* banner part */
+
+  .banner_box{
+    height: 400px;
+    width: 77%;
+    display: flex;
+  }
+  .banner_box1{
+    height: 400px;
+    width: 62%;
+    
+     }
+  .banner_text{
+    margin-top: 3.5em;
+  }
+  .banner_text p{
+    font-size: 3em;
+    font-weight: 700;
+  }
+  .enroll{
+    height: 3.5em;
+    width: 12em;
+    background-color: black;
+    color: #F7F7F7;
+    margin-top: 1em;
+    border: 0;
+    border-radius: 7px;
+  }
+  .banner_box2{
+    height: 400px;
+    width: 38%;
+      }
+  .banner_box2 img{
+    height: 100%;
+    width: 100%;
+  }
+  .box2-mobile{
+    display: none;
   }
